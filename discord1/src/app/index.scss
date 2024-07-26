@@ -1,0 +1,38 @@
+.mae{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.mae h1{
+    font: 800 25px 'arial';
+    line-height: 3.5vh;
+    height: 10vh;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mae p{
+    line-height: 2vh;
+    height: 11vh;
+    font: 500 18px 'arial';
+    text-align: left;
+}
+
+.botao{
+    display:flex ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 4vh;
+    border-radius: 30px;
+    width: 30vh;
+    height: 5vh;
+    background-color: #000;
+    color: #ffff;
+    font: 500 17px 'd1';
+}

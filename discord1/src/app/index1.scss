@@ -1,0 +1,40 @@
+.mae1 img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.mae1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+    gap: 50px;
+    margin-top: 10vh;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+}
+.texto .img2{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+.texto p{
+    font: 100 13px 'arial';
+    gap: 50vh;
+    margin-top: 2.5vh;
+    
+}
+.texto .primeiro{
+    font-weight: bold;
+}
+.texto h1{
+    display: flex;
+    margin-left: 1.5vh;
+    font: 800 15px 'arial';
+}
+.texto .espaco{
+    display: flex;
+}
